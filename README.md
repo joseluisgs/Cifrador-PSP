@@ -43,7 +43,7 @@ Codificado con :sparkling_heart: por [José Luis González Sánchez](https://twi
     <a href="https://github.com/joseluisgs" target="_blank">
         <img src="https://distreau.com/github.svg" 
     height="30">
-    </a>
+    </a> &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/joseluisgonsan" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="30">
